@@ -35,4 +35,4 @@ Welcome to my public repository where I'm uploading all my hands-on practice and
  📥 Clone This Repo
 
 ```bash
-git clone https://github.com/yourusername/CCNA-Lab-Series.git
+https://github.com/Dhiman369/Learning_CCNA
