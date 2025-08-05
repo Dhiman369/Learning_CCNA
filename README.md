@@ -7,7 +7,7 @@ Welcome to my public repository where I'm uploading all my hands-on practice and
 - [x] Network Basics  
 - [x] OSI & TCP/IP Models  
 - [x] Subnetting & IP Addressing  
-- [ ] Routing & Switching  
+- [x] Routing & Switching  
 - [ ] VLANs, NAT, ACLs  
 - [ ] Network Security Concepts
 - [ ] 
